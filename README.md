@@ -1,7 +1,7 @@
 # CSCI4430
 Data Communication and Computer Networks
 
-All HWs are two-man projects, but I had done all of them by myself alone.
+All HWs are two-man projects, but I had done all of them by myself alone. 
 *Results
 <pre>
                Contribution
